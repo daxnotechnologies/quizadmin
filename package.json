@@ -23,7 +23,6 @@
     "web-vitals": "^2.1.4"
   },
   "homepage": "https://logo-2d6da.web.app",
-  "proxy": "https://logo-2d6da.web.app",
   "scripts": {
     "dev": "react-scripts start",
     "start": "react-scripts start",
